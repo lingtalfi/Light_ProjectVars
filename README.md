@@ -1,6 +1,6 @@
 Light_ProjectVars
 ===========
-2021-06-11
+2021-06-11 -> 2021-06-28
 
 
 
@@ -63,9 +63,7 @@ project_vars:
 
 $project_vars_vars.variables:
     project_name: my_project
-
-
-
+    website: myproject.com
 
 
 
@@ -78,6 +76,10 @@ $project_vars_vars.variables:
 History Log
 =============
 
+- 1.0.1 -- 2021-06-28
+
+    - add website var
+  
 - 1.0.0 -- 2021-06-11
 
     - initial commit
